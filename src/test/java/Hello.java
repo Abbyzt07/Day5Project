@@ -1,7 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Really from GITHUB MADE SOME CHANGES awesome hello");
+        System.out.println("Really My Coworker added awesome hello");//we are simulating
 
-        //add more line on your local and commit
     }
 }
