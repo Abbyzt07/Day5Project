@@ -1,7 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Really from GITHUB MADE SOME CHANGES awesome hello");
+        System.out.println("This is my own hello");
 
-        //add more line on your local and commit
     }
 }
